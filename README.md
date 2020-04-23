@@ -14,5 +14,5 @@ Milkman is an order management platform which will allow retailers to adapt and 
 | URL | Title | Implementation source |
 | --- | ----- | --------------------- |
 |[**Provider Shopper**](https://flutter.github.io/samples/provider_shopper.html) | **Shopping App using Provider** | https://github.com/flutter/samples/tree/master/provider_shopper |
-|[**Flutter Maps Firestore**](https://github.com/flutter/samples/tree/master/flutter_maps_firestore) | **Firebase & Google Maps iOS App** | https://github.com/flutter/samples/tree/master/flutter_maps_firestore |
-|[**Charts**](https://github.com/google/charts) | **Flutter Charts** | https://github.com/google/charts |
+|[**Flutter Maps Firestore**](https://flutter.github.io/samples/flutter_maps_firestore.html) | **Firebase & Google Maps iOS App** | https://github.com/flutter/samples/tree/master/flutter_maps_firestore |
+|[**Charts**](https://flutter.github.io/samples/charts.html) | **Flutter Charts** | https://github.com/google/charts |
