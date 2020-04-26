@@ -1,7 +1,7 @@
 # Milkman
 Ordering Platform for Collection &amp; Deliveries
 
-<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Milkman_Login_Screen.png" width="400">
+<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Milkman_Login_Screen.png" width="400">
 
 ## Overview
 Milkman is an order management platform which will allow retailers to adapt and thrive under the current lockdown restrictions. Consumers will be able to order all the products they normally would have from their local vendors for collection & delivery. This empowers retailers which would have relied on customer footfall in their stores to operate solely with a digital presence.
