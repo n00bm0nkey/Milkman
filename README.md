@@ -3,6 +3,9 @@ Ordering Platform for Collection &amp; Deliveries
 
 <img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Milkman_Login_Screen.png" width="400">
 
+
+
+
 ## Overview
 Milkman is an order management platform which will allow retailers to adapt and thrive under the current lockdown restrictions. Consumers will be able to order all the products they normally would have from their local vendors for collection & delivery. This empowers retailers which would have relied on customer footfall in their stores to operate solely with a digital presence.
 
@@ -18,3 +21,8 @@ Milkman is an order management platform which will allow retailers to adapt and 
 |[**Provider Shopper**](https://flutter.github.io/samples/provider_shopper.html) | **Shopping App using Provider** | https://github.com/flutter/samples/tree/master/provider_shopper |
 |[**Flutter Maps Firestore**](https://flutter.github.io/samples/flutter_maps_firestore.html) | **Firebase & Google Maps iOS App** | https://github.com/flutter/samples/tree/master/flutter_maps_firestore |
 |[**Charts**](https://flutter.github.io/samples/charts.html) | **Flutter Charts** | https://github.com/google/charts |
+
+## Screenshots
+<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Milkman_Login_Screen.png" width="200">
+<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Screen.png" width="200">
+<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Schedule.png" width="200">
