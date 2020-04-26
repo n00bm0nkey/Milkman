@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <path fill="rgb(51,153,255)" fill-rule="evenodd" d="M66 1313h419c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H66c-4.4153202 0-8-3.5846798-8-8v-128c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="324" y="115" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Vendor Name</tspan>
+  </text>
+  <g transform="translate(73 329)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="251" y="98" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+    <g transform="translate(509 72)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+    </g>
+    <g transform="translate(620 72)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M10.0000028 5.00000028c-7.9e-7 1.4168967-3.7e-7.68144982-8e-7 1.42857143L10 10.00000028l-.0000028 5"/>
+    </g>
+    <g transform="translate(663 92)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,0)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.31802058 6.11091181l1.01015226 1.01015283L9.85355349 9.6464467l3.53553291 3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.0000009 13.0710689l1.01015225-1.01015282L9.53553381 9.535534l3.53553291-3.5355349"/>
+    </g>
+    <g transform="translate(663 52)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M9.0000009 14.0710689l1.01015225-1.01015282 2.52538066-2.52538207 3.53553291-3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.00000042 10.39308208l.48753787.48753814 1.21884465 1.21884534 1.70638252 1.70638347"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="557" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="780" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+  </g>
+  <g transform="translate(73 493)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="251" y="98" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+    <g transform="translate(509 72)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+    </g>
+    <g transform="translate(620 72)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M10.0000028 5.00000028c-7.9e-7 1.4168967-3.7e-7.68144982-8e-7 1.42857143L10 10.00000028l-.0000028 5"/>
+    </g>
+    <g transform="translate(663 92)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,0)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.31802058 6.11091181l1.01015226 1.01015283L9.85355349 9.6464467l3.53553291 3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.0000009 13.0710689l1.01015225-1.01015282L9.53553381 9.535534l3.53553291-3.5355349"/>
+    </g>
+    <g transform="translate(663 52)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M9.0000009 14.0710689l1.01015225-1.01015282 2.52538066-2.52538207 3.53553291-3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.00000042 10.39308208l.48753787.48753814 1.21884465 1.21884534 1.70638252 1.70638347"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="557" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="780" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+  </g>
+  <g transform="translate(73 656)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="251" y="98" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+    <g transform="translate(509 72)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+    </g>
+    <g transform="translate(620 72)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M10.0000028 5.00000028c-7.9e-7 1.4168967-3.7e-7.68144982-8e-7 1.42857143L10 10.00000028l-.0000028 5"/>
+    </g>
+    <g transform="translate(663 92)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,0)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.31802058 6.11091181l1.01015226 1.01015283L9.85355349 9.6464467l3.53553291 3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.0000009 13.0710689l1.01015225-1.01015282L9.53553381 9.535534l3.53553291-3.5355349"/>
+    </g>
+    <g transform="translate(663 52)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M9.0000009 14.0710689l1.01015225-1.01015282 2.52538066-2.52538207 3.53553291-3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.00000042 10.39308208l.48753787.48753814 1.21884465 1.21884534 1.70638252 1.70638347"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="557" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="780" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+  </g>
+  <g transform="translate(73 817)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="251" y="98" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+    <g transform="translate(509 72)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+    </g>
+    <g transform="translate(620 72)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M10.0000028 5.00000028c-7.9e-7 1.4168967-3.7e-7.68144982-8e-7 1.42857143L10 10.00000028l-.0000028 5"/>
+    </g>
+    <g transform="translate(663 92)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,0)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.31802058 6.11091181l1.01015226 1.01015283L9.85355349 9.6464467l3.53553291 3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.0000009 13.0710689l1.01015225-1.01015282L9.53553381 9.535534l3.53553291-3.5355349"/>
+    </g>
+    <g transform="translate(663 52)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M9.0000009 14.0710689l1.01015225-1.01015282 2.52538066-2.52538207 3.53553291-3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.00000042 10.39308208l.48753787.48753814 1.21884465 1.21884534 1.70638252 1.70638347"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="557" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="780" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="314" y="276" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Description</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="596" y="276" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Quantity</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="868" y="276" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Subtotal</tspan>
+  </text>
+  <g transform="translate(73 985)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="251" y="98" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+    <g transform="translate(509 72)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+    </g>
+    <g transform="translate(620 72)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M5 10h10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M10.0000028 5.00000028c-7.9e-7 1.4168967-3.7e-7.68144982-8e-7 1.42857143L10 10.00000028l-.0000028 5"/>
+    </g>
+    <g transform="translate(663 92)">
+      <ellipse cx="10" cy="10" fill="rgb(255,0,0)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.31802058 6.11091181l1.01015226 1.01015283L9.85355349 9.6464467l3.53553291 3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.0000009 13.0710689l1.01015225-1.01015282L9.53553381 9.535534l3.53553291-3.5355349"/>
+    </g>
+    <g transform="translate(663 52)">
+      <ellipse cx="10" cy="10" fill="rgb(42,201,64)" rx="10" ry="10"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M9.0000009 14.0710689l1.01015225-1.01015282 2.52538066-2.52538207 3.53553291-3.5355349"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M6.00000042 10.39308208l.48753787.48753814 1.21884465 1.21884534 1.70638252 1.70638347"/>
+    </g>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="557" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="780" y="99" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 1620h1064c4.4153202 0 8 3.5846798 8 8v284c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8v-284c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="551" y="1754" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">999.99$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="324" y="1754" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Total</tspan>
+  </text>
+  <g transform="translate(380 1177)">
+    <text font-size="0" style="white-space:pre">
+      <tspan x="0" y="69" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">...</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="532" y="69" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">...</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="229" y="69" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">scroll items</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="120" y="1398" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Collection/Delivery</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="156" y="1565" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Date:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="677" y="1565" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Time:</tspan>
+  </text>
+  <path fill="rgb(51,225,255)" fill-rule="evenodd" d="M559 1312h228c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H559c-4.4153202 0-8-3.5846798-8-8v-128c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(51,225,255)" fill-rule="evenodd" d="M824 1312h228c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H824c-4.4153202 0-8-3.5846798-8-8v-128c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="629" y="1398" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">ASAP</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="869" y="1401" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Schedule</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M314 1530h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M430 1530h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="314" y="1522" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">DD</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="424" y="1522" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">MM</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M844 1530h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M969 1530h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="925" y="1565" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="849" y="1522" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">hh</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="966" y="1522" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">mm</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="388" y="1565" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">/</tspan>
+  </text>
+  <g transform="translate(304 1813)">
+    <path fill="rgb(255,0,0)" fill-rule="evenodd" d="M8 0h184c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="59" y="64" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Clear</tspan>
+    </text>
+  </g>
+  <g transform="translate(577 1813)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h184c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="36" y="64" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Confirm</tspan>
+    </text>
+  </g>
+</svg>

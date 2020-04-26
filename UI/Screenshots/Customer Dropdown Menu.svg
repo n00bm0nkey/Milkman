@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <g transform="translate(0 164)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h1064c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="411" y="97" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Settings</tspan>
+    </text>
+  </g>
+  <g transform="translate(0 328)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h1064c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="323" y="97" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Order History</tspan>
+    </text>
+  </g>
+  <g transform="translate(0 656)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h1064c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="428" y="97" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Logout</tspan>
+    </text>
+  </g>
+  <g transform="translate(0 816)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h1064c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="300" y="97" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Delete Account</tspan>
+    </text>
+  </g>
+</svg>

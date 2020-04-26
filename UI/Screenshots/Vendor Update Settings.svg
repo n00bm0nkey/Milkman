@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3205" viewBox="0 0 1080 3205">
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <g transform="translate(950 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h64c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="1" y="54" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Lang</tspan>
+    </text>
+  </g>
+  <g transform="translate(95 1653)">
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="51" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Address:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 250h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V258c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="341" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Line 1:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 414h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V422c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="29" y="505" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Line 2:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 578h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V586c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="29" y="669" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">City:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 742h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V750c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="29" y="833" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Postcode:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 84h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V92c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="20" y="175" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Country:</tspan>
+    </text>
+  </g>
+  <g transform="translate(95 1201)">
+    <text font-size="0" style="white-space:pre">
+      <tspan x="7" y="51" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Contact Information:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 91h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V99c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="21" y="182" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Contact number:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 258h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V266c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="29" y="349" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Contact email:</tspan>
+    </text>
+  </g>
+  <g transform="translate(95 258)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 741h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V749c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="36" y="832" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Categories:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M9 85h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H9c-4.4153202 0-8-3.5846798-8-8V93c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="26" y="176" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Trading name:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 249h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V257c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="26" y="340" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Unique ID:</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="7" y="51" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Basic Information: </tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 415h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V423c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="26" y="506" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Country:</tspan>
+    </text>
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 580h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V588c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="26" y="671" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Tax Registration:</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="288" y="118" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Vendor Settings</tspan>
+  </text>
+  <g transform="translate(390 2970)">
+    <path fill="rgb(255,229,0)" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="23" y="77" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Confirm</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="68" y="2661" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">[PAYMENT INFO]</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="45" y="2747" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">[OPENING HOURS]</tspan>
+  </text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(50 54)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="177" y="736" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Waiting for customer payment</tspan>
+  </text>
+  <g transform="translate(415 835)">
+    <ellipse cx="125" cy="125" fill="rgb(51,225,255)" rx="125" ry="125"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="30" y="145" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Loading</tspan>
+    </text>
+  </g>
+</svg>

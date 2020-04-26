@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M868 440h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H868c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="879" y="489" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Reserved</tspan>
+  </text>
+  <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M869 511h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H869c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="890" y="560" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Bagged</tspan>
+  </text>
+  <g transform="translate(285 1640)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h494c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="172" y="97" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Done</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="354" y="1474" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"/>
+ <tspan x="354" y="1506" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    If (items == bagged)  </tspan> <tspan x="354" y="1538" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">        { Done == ready }</tspan> <tspan x="354" y="1570" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    else if (items == reserved) </tspan> <tspan x="354" y="1602" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">        { Done == reorder queue }</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="375" y="112" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Order Cart</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="343" y="187" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Order number: {UOID} - {VDOID}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="167" y="404" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Description</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="411" y="404" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Quantity</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="631" y="404" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Subtotal</tspan>
+  </text>
+  <g transform="translate(50 440)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="614" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="468" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="187" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="91" y="288" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Timestamp Ordered</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="416" y="288" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Timestamp Scheduled</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="729" y="288" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Timestamp Delivered</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="91" y="254" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Ordered:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="416" y="254" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Scheduled:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="729" y="254" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Delivered:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="418" y="155" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Delivery / Collection</tspan>
+  </text>
+  <g transform="translate(50 616)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="614" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="468" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="187" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+  </g>
+  <g transform="translate(50 786)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="614" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="468" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="187" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+  </g>
+  <g transform="translate(51 962)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="614" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="468" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="187" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+  </g>
+  <g transform="translate(50 1130)">
+    <ellipse cx="71.5" cy="71.5" fill="rgb(200,200,200)" rx="71.5" ry="71.5"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="614" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="468" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">1</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="187" y="94" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Item</tspan>
+    </text>
+  </g>
+  <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M869 616h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H869c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="880" y="665" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Reserved</tspan>
+  </text>
+  <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M870 687h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H870c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="891" y="736" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Bagged</tspan>
+  </text>
+  <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M867 786h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H867c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="878" y="835" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Reserved</tspan>
+  </text>
+  <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M868 857h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H868c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="889" y="906" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Bagged</tspan>
+  </text>
+  <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M870 962h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H870c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="881" y="1011" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Reserved</tspan>
+  </text>
+  <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M871 1033h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H871c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="892" y="1082" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Bagged</tspan>
+  </text>
+  <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M879 1130h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H879c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="890" y="1179" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Reserved</tspan>
+  </text>
+  <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M880 1201h164c4.4153202 0 8 3.5846798 8 8v56c0 4.4153202-3.5846798 8-8 8H880c-4.4153202 0-8-3.5846798-8-8v-56c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="901" y="1250" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Bagged</tspan>
+  </text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <g transform="translate(390 1080)">
+    <path fill="rgb(255,229,0)" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="23" y="77" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Confirm</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="245.258" y="884" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Are you sure you want to </tspan> <tspan x="358.895" y="948" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">clear your cart?</tspan>
+  </text>
+</svg>

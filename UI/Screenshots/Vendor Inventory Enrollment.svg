@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M103 1209h872c4.4153202 0 8 3.5846798 8 8v326c0 4.4153202-3.5846798 8-8 8H103c-4.4153202 0-8-3.5846798-8-8v-326c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M103 165h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H103c-4.4153202 0-8-3.5846798-8-8V173c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M103 530h403c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H103c-4.4153202 0-8-3.5846798-8-8V538c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="133" y="256" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Product:</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M588 530h389c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H588c-4.4153202 0-8-3.5846798-8-8V538c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="133" y="621" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Size:</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M103 747h384c4.4153202 0 8 3.5846798 8 8v384c0 4.4153202-3.5846798 8-8 8H103c-4.4153202 0-8-3.5846798-8-8V755c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="635" y="621" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Price:</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M591 747h384c4.4153202 0 8 3.5846798 8 8v384c0 4.4153202-3.5846798 8-8 8H591c-4.4153202 0-8-3.5846798-8-8V755c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="154" y="966" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Photo Front</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="403" y="1405" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Description</tspan>
+  </text>
+  <g transform="translate(389 1597)">
+    <path fill="rgb(255,229,0)" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="23" y="77" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Confirm</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="642" y="966" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Photo Back</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M103 349h874c4.4153202 0 8 3.5846798 8 8v128c0 4.4153202-3.5846798 8-8 8H103c-4.4153202 0-8-3.5846798-8-8V357c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="303" y="440" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Category dropdown</tspan>
+  </text>
+</svg>

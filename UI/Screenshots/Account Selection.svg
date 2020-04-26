@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" x="0" y="0" fill="rgb(255,255,255)"/>
+  <g transform="translate(48 860)">
+    <path fill="rgb(0,163,255)" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v184c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="1" y="126" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Customer</tspan>
+    </text>
+  </g>
+  <g transform="translate(730 860)">
+    <path fill="rgb(0,163,255)" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v184c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="38" y="83.5" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Vendor</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="258" y="118" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Account Selection</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="238" y="721" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Select which account you </tspan> <tspan x="238" y="786" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">would like to access: </tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="155" y="1343" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Skip this page if a user has only one type associated with account</tspan>
+  </text>
+  <g transform="translate(950 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h64c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="1" y="54" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Lang</tspan>
+    </text>
+  </g>
+  <g transform="translate(390 860)">
+    <path fill="rgb(0,163,255)" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v184c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="19" y="125" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Delivery</tspan>
+    </text>
+  </g>
+</svg>

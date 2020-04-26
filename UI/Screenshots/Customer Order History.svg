@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M58 180h964c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H58c-4.4153202 0-8-3.5846798-8-8v-64c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre" opacity=".65">
+    <tspan x="74" y="234" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">search:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="323" y="112" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Order History</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M181 327h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M297 327h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="181" y="319" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">DD</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="291" y="319" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">MM</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="255" y="362" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">/</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M489 333h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M605 333h50c4.4153202 0 8 3.5846798 8 8v27c0 4.4153202-3.5846798 8-8 8h-50c-4.4153202 0-8-3.5846798-8-8v-27c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="489" y="325" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">DD</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="599" y="325" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">MM</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="563" y="368" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">/</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="61" y="358" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">From:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="391" y="358" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">To:</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 429h1064c4.4153202 0 8 3.5846798 8 8v456c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V437c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(52 510)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v351c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="71" y="56" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Vendor</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="45" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order:</tspan> <tspan x="45" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1      9.99$</tspan> <tspan x="45" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - ...                 ...</tspan> <tspan x="45" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">______________________</tspan> <tspan x="45" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Total   999.99$</tspan>
+    </text>
+    <ellipse cx="39" cy="40" fill="rgb(0,0,0)" rx="24" ry="24"/>
+  </g>
+  <g transform="translate(52 510)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v351c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="71" y="56" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Vendor</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="45" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order:</tspan> <tspan x="45" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1      9.99$</tspan> <tspan x="45" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - ...                 ...</tspan> <tspan x="45" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">______________________</tspan> <tspan x="45" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Total   999.99$</tspan>
+    </text>
+    <ellipse cx="39" cy="40" fill="rgb(0,0,0)" rx="24" ry="24"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="260" y="565" fill="rgb(42,201,64)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Status</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="92" y="793" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">timestamp_ordered</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="83" y="846" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">timestamp_delivered</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="500" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Recent Orders:</tspan>
+  </text>
+  <g transform="translate(400 510)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v351c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="71" y="56" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Vendor</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="45" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order:</tspan> <tspan x="45" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1      9.99$</tspan> <tspan x="45" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - ...                 ...</tspan> <tspan x="45" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">______________________</tspan> <tspan x="45" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Total   999.99$</tspan>
+    </text>
+    <ellipse cx="39" cy="40" fill="rgb(0,0,0)" rx="24" ry="24"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="260" y="565" fill="rgb(42,201,64)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Status</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="591" y="565" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Cancelled</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="92" y="793" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">timestamp_ordered</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="83" y="846" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">timestamp_delivered</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="515" y="825" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">reason</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M759 338h19c4.4153202 0 8 3.5846798 8 8v17c0 4.4153202-3.5846798 8-8 8h-19c-4.4153202 0-8-3.5846798-8-8v-17c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="795" y="363" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Show Cancelled</tspan>
+  </text>
+</svg>

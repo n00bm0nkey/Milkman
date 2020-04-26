@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" x="0" y="0" fill="rgb(255,255,255)"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="401" y="720" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Milkman</tspan>
+  </text>
+  <g transform="translate(147 850)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h770c4.4153202 0 8 3.5846798 8 8v94c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre" opacity=".65">
+      <tspan x="33" y="69" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Email:</tspan>
+    </text>
+  </g>
+  <g transform="translate(147 1008)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h770c4.4153202 0 8 3.5846798 8 8v94c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre" opacity=".65">
+      <tspan x="34" y="59" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Password:</tspan>
+    </text>
+  </g>
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h64c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="12" y="54" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Log</tspan>
+    </text>
+  </g>
+  <g transform="translate(396 1250)">
+    <path fill="rgb(255,229,0)" fill-rule="evenodd" d="M8 1h273c4.4153202 0 8 3.5846798 8 8v69.36895674c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V9c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="12" y="68" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Register</tspan>
+    </text>
+  </g>
+  <g transform="translate(950 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h64c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="1" y="54" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Lang</tspan>
+    </text>
+  </g>
+</svg>

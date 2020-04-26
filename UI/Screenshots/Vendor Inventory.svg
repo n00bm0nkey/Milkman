@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M58 200h342c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H58c-4.4153202 0-8-3.5846798-8-8v-64c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="115" y="250" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Manage Categories</tspan>
+  </text>
+  <g transform="translate(650 200)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h334c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="101" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Add Product</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M58 360h964c4.4153202 0 8 3.5846798 8 8v584c0 4.4153202-3.5846798 8-8 8H58c-4.4153202 0-8-3.5846798-8-8V368c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(200 557)">
+    <text font-size="0" style="white-space:pre">
+      <tspan x="518" y="120" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none"> 9.99 $/kg</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="121" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Short Description</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="507" y="78" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="319" y="64" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Size</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="66" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Item</tspan>
+    </text>
+    <ellipse cx="71.5" cy="71.5" fill="rgb(0,0,0)" rx="71.5" ry="71.5"/>
+  </g>
+  <g transform="translate(200 721)">
+    <text font-size="0" style="white-space:pre">
+      <tspan x="518" y="120" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none"> 9.99 $/kg</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="121" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Short Description</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="507" y="78" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="319" y="64" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Size</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="66" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Item</tspan>
+    </text>
+    <ellipse cx="71.5" cy="71.5" fill="rgb(0,0,0)" rx="71.5" ry="71.5"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="90" y="486" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Category:</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M66 1020h964c4.4153202 0 8 3.5846798 8 8v584c0 4.4153202-3.5846798 8-8 8H66c-4.4153202 0-8-3.5846798-8-8v-584c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(208 1217)">
+    <text font-size="0" style="white-space:pre">
+      <tspan x="518" y="120" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none"> 9.99 $/kg</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="121" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Short Description</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="507" y="78" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="319" y="64" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Size</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="66" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Item</tspan>
+    </text>
+    <ellipse cx="71.5" cy="71.5" fill="rgb(0,0,0)" rx="71.5" ry="71.5"/>
+  </g>
+  <g transform="translate(208 1381)">
+    <text font-size="0" style="white-space:pre">
+      <tspan x="518" y="120" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none"> 9.99 $/kg</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="121" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Short Description</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="507" y="78" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">9.99$</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="319" y="64" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Size</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="176" y="66" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Item</tspan>
+    </text>
+    <ellipse cx="71.5" cy="71.5" fill="rgb(0,0,0)" rx="71.5" ry="71.5"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="98" y="1146" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Category:</tspan>
+  </text>
+</svg>

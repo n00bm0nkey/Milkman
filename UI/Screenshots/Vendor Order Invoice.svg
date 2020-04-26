@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M31 742h974c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H31c-4.4153202 0-8-3.5846798-8-8v-16c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M32 644h974c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H32c-4.4153202 0-8-3.5846798-8-8v-16c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M31 548h974c4.4153202 0 8 3.5846798 8 8v16c0 4.4153202-3.5846798 8-8 8H31c-4.4153202 0-8-3.5846798-8-8v-16c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(50 54)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M676 54h148c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H676c-4.4153202 0-8-3.5846798-8-8V62c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="694" y="114" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Save</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M874 54h148c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H874c-4.4153202 0-8-3.5846798-8-8V62c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="882" y="114" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Email</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="866" y="467" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Ammount</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="202" y="464" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Description</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="444" y="464" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Quantity</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="668" y="464" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Tax Rate</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="224" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order number:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="325" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Payment Timestamp:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="664" y="224" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Payment Information: </tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="664" y="325" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Date:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="264" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">{VendorUOID}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="664" y="264" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">{Card number / Legal tender}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="664" y="359" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">{DD/MM/YYYY}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="359" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">{unix_epoch_timestamp}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="56" y="467" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">PID</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="56" y="523" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{pid}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="203" y="523" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Product 500g</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="502" y="523" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">1</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="715" y="523" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">21%</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="915" y="523" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">9.99$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="203" y="573" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Product 500g</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="502" y="573" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">1</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="715" y="573" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">21%</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="915" y="573" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">9.99$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="56" y="573" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{pid}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="203" y="621" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Product 500g</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="502" y="621" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">1</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="715" y="621" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">21%</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="915" y="621" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">9.99$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="56" y="621" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{pid}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="203" y="669" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Product 500g</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="502" y="669" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">1</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="715" y="669" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">21%</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="915" y="669" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">9.99$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="203" y="719" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Product 500g</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="502" y="719" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">1</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="715" y="719" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">21%</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="915" y="719" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">9.99$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="203" y="767" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Product 500g</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="502" y="767" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">1</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="715" y="767" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">21%</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="915" y="767" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">9.99$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="56" y="669" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{pid}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="56" y="719" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{pid}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="56" y="767" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{pid}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="671" y="848" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Subtotal:</tspan>
+  </text>
+  <path fill="none" stroke="rgb(128,128,128)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M0 793h1080"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="905" y="847" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">59.94$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="704" y="914" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Tax:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="907" y="913" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">12.59$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="693" y="995" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Total:</tspan>
+  </text>
+  <path fill="none" stroke="rgb(128,128,128)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M650 945.5h430"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="908" y="990" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">72.53$</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="897" y="410" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">inc or excl tax</tspan> <tspan x="897" y="426" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">locale dependent</tspan>
+  </text>
+</svg>

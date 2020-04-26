@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M81 338h929c4.4153202 0 8 3.5846798 8 8v534c0 4.4153202-3.5846798 8-8 8H81c-4.4153202 0-8-3.5846798-8-8V346c0-4.4153202 3.5846798-8 8-8z"/>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M81 960h929c4.4153202 0 8 3.5846798 8 8v328c0 4.4153202-3.5846798 8-8 8H81c-4.4153202 0-8-3.5846798-8-8V968c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="178" y="1046" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Outsource Delivery:</tspan>
+  </text>
+  <path fill="rgb(255,255,255)" fill-rule="evenodd" d="M116 1008h34c4.4153202 0 8 3.5846798 8 8v34c0 4.4153202-3.5846798 8-8 8h-34c-4.4153202 0-8-3.5846798-8-8v-34c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(583 761)">
+    <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M8 0h384c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="75" y="63" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Manage Drivers</tspan>
+    </text>
+  </g>
+  <g transform="translate(321 1172)">
+    <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M8 0h384c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="75" y="63" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Manage Drivers</tspan>
+    </text>
+  </g>
+  <g transform="translate(168 535)">
+    <path fill="none" stroke="rgb(128,128,128)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M0 6.5h744"/>
+    <ellipse cx="372.5" cy="7.5" fill="rgb(51,153,255)" rx="7.5" ry="7.5"/>
+  </g>
+  <g transform="translate(98 761)">
+    <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M8 0h384c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="78" y="63" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Delivery Hours</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="98" y="484" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Maximum Distance:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="288" y="118" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Order Settings</tspan>
+  </text>
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="297" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Delivery Options:</tspan>
+  </text>
+  <g transform="translate(168 687)">
+    <path fill="none" stroke="rgb(128,128,128)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M0 6.5h744"/>
+    <ellipse cx="372.5" cy="7.5" fill="rgb(51,153,255)" rx="7.5" ry="7.5"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="88" y="389" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Inhouse delivery options:</tspan>
+  </text>
+  <path fill="rgb(255,255,255)" fill-rule="evenodd" d="M171 1103h9c4.4153202 0 8 3.5846798 8 8v9c0 4.4153202-3.5846798 8-8 8h-9c-4.4153202 0-8-3.5846798-8-8v-9c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="104" y="627" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Maximum Deliveries per Route:</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="205" y="1125" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Perishables?</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="1405" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Collection Options:</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M81 1451h929c4.4153202 0 8 3.5846798 8 8v328c0 4.4153202-3.5846798 8-8 8H81c-4.4153202 0-8-3.5846798-8-8v-328c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(340 1623)">
+    <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M8 0h384c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="66" y="63" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none">Collection Hours</tspan>
+    </text>
+  </g>
+</svg>

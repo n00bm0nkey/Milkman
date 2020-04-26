@@ -1,0 +1,337 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2876" viewBox="0 0 1080 2876">
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 2029h1064c4.4153202 0 8 3.5846798 8 8v493c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8v-493c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(50 2160)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h276c4.4153202 0 8 3.5846798 8 8v329c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="39" y="171" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Orders in Route:</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="110" y="195" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="16" font-weight="900" style="white-space:pre;text-transform:none">{URID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="269" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="253" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="237" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="221" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="285" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+  </g>
+  <g transform="translate(70 2190)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="5" y="36" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Assign </tspan> <tspan x="5" y="68" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Driver</tspan>
+    </text>
+  </g>
+  <g transform="translate(0 1457)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h1064c4.4153202 0 8 3.5846798 8 8v493c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="59" y="87" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Active Routes: </tspan>
+    </text>
+  </g>
+  <g transform="translate(50 1575)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h276c4.4153202 0 8 3.5846798 8 8v329c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="269" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="253" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="237" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="221" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="285" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="152" y="90" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{DUID}</tspan>
+    </text>
+    <ellipse cx="59" cy="64" fill="rgb(0,0,0)" rx="50" ry="50"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="123" y="56" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Driver name</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="48" y="166" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Orders in Route:</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="119" y="190" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="16" font-weight="900" style="white-space:pre;text-transform:none">{URID}</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 164h1064c4.4153202 0 8 3.5846798 8 8v620c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V172c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(391 328)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v404c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25.025" y="56.434" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Timestamp</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order: </tspan> <tspan x="25" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1     9.99$</tspan> <tspan x="25" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 2     9.99$</tspan> <tspan x="25" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 3     9.99$</tspan> <tspan x="25" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 4     9.99$</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="695" y="238" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">if activeOrders[0] == null</tspan> <tspan x="695" y="270" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">this section doesn't exist</tspan>
+  </text>
+  <g transform="translate(50 328)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v404c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25.025" y="56.434" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Timestamp</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order: </tspan> <tspan x="25" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1     9.99$</tspan> <tspan x="25" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 2     9.99$</tspan> <tspan x="25" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 3     9.99$</tspan> <tspan x="25" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 4     9.99$</tspan>
+    </text>
+  </g>
+  <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M98 642h203c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H98c-4.4153202 0-8-3.5846798-8-8v-69c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="153" y="693" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Resolve</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="417" y="353" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="296" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Active Orders (Collection):</tspan>
+  </text>
+  <g transform="translate(740 328)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v404c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25.025" y="56.434" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Timestamp</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order: </tspan> <tspan x="25" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1     9.99$</tspan> <tspan x="25" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 2     9.99$</tspan> <tspan x="25" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 3     9.99$</tspan> <tspan x="25" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 4     9.99$</tspan>
+    </text>
+  </g>
+  <g transform="translate(764 642)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="13" y="52" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Ready</tspan>
+    </text>
+  </g>
+  <g transform="translate(928 642)">
+    <path fill="rgb(255,0,0)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="11" y="52" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Cancel</tspan>
+    </text>
+  </g>
+  <g transform="translate(580 642)">
+    <path fill="rgb(255,0,0)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="11" y="52" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Cancel</tspan>
+    </text>
+  </g>
+  <g transform="translate(417 642)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="8" y="53" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Charge</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="73" y="353" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+  </text>
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h64c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M17 22h47"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M17 39h47"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M17 57h47"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="761" y="353" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="59" y="617" fill="rgb(243,202,62)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">SUPPORT_ISSUE_STRING</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 810h1064c4.4153202 0 8 3.5846798 8 8v597c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V818c0-4.4153202 3.5846798-8 8-8z"/>
+  <g transform="translate(391 974)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v404c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25.025" y="56.434" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Timestamp</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order: </tspan> <tspan x="25" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1     9.99$</tspan> <tspan x="25" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 2     9.99$</tspan> <tspan x="25" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 3     9.99$</tspan> <tspan x="25" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 4     9.99$</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="695" y="884" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">if activeOrders[0] == null</tspan> <tspan x="695" y="916" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">this section doesn't exist</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="417" y="999" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="942" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Active Orders (Delivery):</tspan>
+  </text>
+  <g transform="translate(740 974)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v404c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25.025" y="56.434" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Timestamp</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order: </tspan> <tspan x="25" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1     9.99$</tspan> <tspan x="25" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 2     9.99$</tspan> <tspan x="25" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 3     9.99$</tspan> <tspan x="25" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 4     9.99$</tspan>
+    </text>
+  </g>
+  <g transform="translate(764 1288)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="13" y="52" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Ready</tspan>
+    </text>
+  </g>
+  <g transform="translate(928 1288)">
+    <path fill="rgb(255,0,0)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="11" y="52" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Cancel</tspan>
+    </text>
+  </g>
+  <g transform="translate(580 1288)">
+    <path fill="rgb(255,0,0)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="11" y="52" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Cancel</tspan>
+    </text>
+  </g>
+  <g transform="translate(417 1288)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="13" y="52" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Ready</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="761" y="999" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+  </text>
+  <g transform="translate(50 974)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h294c4.4153202 0 8 3.5846798 8 8v404c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25.025" y="56.434" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Timestamp</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="25" y="103" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Order: </tspan> <tspan x="25" y="135" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 1     9.99$</tspan> <tspan x="25" y="167" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 2     9.99$</tspan> <tspan x="25" y="199" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 3     9.99$</tspan> <tspan x="25" y="231" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">    - Item 4     9.99$</tspan>
+    </text>
+  </g>
+  <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M98 1288h203c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H98c-4.4153202 0-8-3.5846798-8-8v-69c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="153" y="1339" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Resolve</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="73" y="999" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="59" y="1263" fill="rgb(243,202,62)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">SUPPORT_ISSUE_STRING</tspan>
+  </text>
+  <g transform="translate(950 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h64c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="1" y="54" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Lang</tspan>
+    </text>
+  </g>
+  <g transform="translate(400 1575)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h276c4.4153202 0 8 3.5846798 8 8v329c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="269" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="253" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="237" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="221" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="285" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="152" y="90" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{DUID}</tspan>
+    </text>
+    <ellipse cx="59" cy="64" fill="rgb(0,0,0)" rx="50" ry="50"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="123" y="56" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Driver name</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="48" y="166" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Orders in Route:</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="119" y="190" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="16" font-weight="900" style="white-space:pre;text-transform:none">{URID}</tspan>
+    </text>
+  </g>
+  <g transform="translate(749 1575)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h276c4.4153202 0 8 3.5846798 8 8v329c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="269" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="253" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="237" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="221" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="285" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="152" y="90" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">{DUID}</tspan>
+    </text>
+    <ellipse cx="59" cy="64" fill="rgb(0,0,0)" rx="50" ry="50"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="123" y="56" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Driver name</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="48" y="166" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Orders in Route:</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="119" y="190" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="16" font-weight="900" style="white-space:pre;text-transform:none">{URID}</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="50" y="2106" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Pending Routes: </tspan>
+  </text>
+  <g transform="translate(403 2160)">
+    <path fill="rgb(130,130,130)" fill-rule="evenodd" d="M8 0h276c4.4153202 0 8 3.5846798 8 8v329c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="39" y="171" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Orders in Route:</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="110" y="195" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="16" font-weight="900" style="white-space:pre;text-transform:none">{URID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="269" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="253" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="237" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="221" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="94" y="285" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="12" font-weight="900" style="white-space:pre;text-transform:none">{UOID} - {VDOID}</tspan>
+    </text>
+  </g>
+  <g transform="translate(420 2190)">
+    <path fill="rgb(42,201,64)" fill-rule="evenodd" d="M8 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="5" y="36" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Assign </tspan> <tspan x="5" y="68" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Driver</tspan>
+    </text>
+  </g>
+  <g transform="translate(227 2190)">
+    <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M9 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H9c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="3.256" y="36" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Manage </tspan> <tspan x="15.473" y="68" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Route</tspan>
+    </text>
+  </g>
+  <g transform="translate(580 2190)">
+    <path fill="rgb(243,202,62)" fill-rule="evenodd" d="M9 0h84c4.4153202 0 8 3.5846798 8 8v69c0 4.4153202-3.5846798 8-8 8H9c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="3.256" y="36" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Manage </tspan> <tspan x="15.473" y="68" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">Route</tspan>
+    </text>
+  </g>
+</svg>

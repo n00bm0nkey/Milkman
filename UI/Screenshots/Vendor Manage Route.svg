@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <path id="path-4" fill-rule="evenodd" d="M373 1599.5l36.5-41L373 1520v79.5z"/>
+    <path id="path-12" fill-rule="evenodd" d="M222 1599.5l36.5-41L222 1520v79.5z"/>
+    <path id="path-13" fill-rule="evenodd" d="M522 1599.5l36.5-41L522 1520v79.5z"/>
+    <path id="path-14" fill-rule="evenodd" d="M673 1599.5l36.5-41L673 1520v79.5z"/>
+    <path id="path-15" fill-rule="evenodd" d="M827 1599.5l36.5-41L827 1520v79.5z"/>
+  </defs>
+  <g transform="translate(50 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h150c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="37" y="50" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic"><- Back</tspan>
+    </text>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="312" y="112" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Manage Route</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M0 208c0-4.418278 3.581722-8 8-8h1064c4.418278 0 8 3.581722 8 8v1064c0 4.418278-3.581722 8-8 8H8c-4.418278 0-8-3.581722-8-8V208z"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="176.25" y="507" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="128" font-weight="900" style="white-space:pre;text-transform:none">Google Map</tspan> <tspan x="118.656" y="680" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="128" font-weight="900" style="white-space:pre;text-transform:none">route + active </tspan> <tspan x="304" y="853" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="128" font-weight="900" style="white-space:pre;text-transform:none">delivery </tspan> <tspan x="233.125" y="1026" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="128" font-weight="900" style="white-space:pre;text-transform:none">customers</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="25" y="1373" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">Route Details:</tspan>
+  </text>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M76 1387h929c4.4153202 0 8 3.5846798 8 8v328c0 4.4153202-3.5846798 8-8 8H76c-4.4153202 0-8-3.5846798-8-8v-328c0-4.4153202 3.5846798-8 8-8z"/>
+  <g>
+    <use fill="rgb(200,200,200)" xlink:href="#path-4"/>
+    <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#path-4"/>
+  </g>
+  <ellipse cx="768" cy="1559" fill="rgb(0,0,0)" rx="50" ry="50"/>
+  <ellipse cx="615" cy="1559" fill="rgb(0,0,0)" rx="50" ry="50"/>
+  <ellipse cx="463" cy="1559" fill="rgb(0,0,0)" rx="50" ry="50"/>
+  <ellipse cx="311" cy="1559" fill="rgb(0,0,0)" rx="50" ry="50"/>
+  <ellipse cx="165" cy="1559" fill="rgb(0,0,0)" rx="50" ry="50"/>
+  <ellipse cx="913" cy="1559" fill="rgb(0,0,0)" rx="50" ry="50"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="391" y="1673" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">drag and drop to reorder</tspan> <tspan x="425.189" y="1705" fill="rgb(255,0,0)" font-family="Segoe UI Black" font-size="24" font-weight="900" style="white-space:pre;text-transform:none">click recenters map</tspan>
+  </text>
+  <g transform="translate(391 1772)">
+    <path fill="rgb(255,229,0)" fill-rule="evenodd" d="M8 0h284c4.4153202 0 8 3.5846798 8 8v84c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="23" y="77" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Confirm</tspan>
+    </text>
+  </g>
+  <g>
+    <use fill="rgb(200,200,200)" xlink:href="#path-12"/>
+    <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#path-12"/>
+  </g>
+  <g>
+    <use fill="rgb(200,200,200)" xlink:href="#path-13"/>
+    <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#path-13"/>
+  </g>
+  <g>
+    <use fill="rgb(200,200,200)" xlink:href="#path-14"/>
+    <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#path-14"/>
+  </g>
+  <g>
+    <use fill="rgb(200,200,200)" xlink:href="#path-15"/>
+    <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#path-15"/>
+  </g>
+</svg>

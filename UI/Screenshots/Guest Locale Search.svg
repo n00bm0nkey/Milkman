@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M58 920h964c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H58c-4.4153202 0-8-3.5846798-8-8v-64c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre" opacity=".65">
+    <tspan x="71" y="974" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">city: </tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="292" y="744" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="48" font-weight="900" style="white-space:pre;text-transform:none">please enter a locale:</tspan>
+  </text>
+  <g transform="translate(396 1076)">
+    <path fill="rgb(255,229,0)" fill-rule="evenodd" d="M8 0h273c4.4153202 0 8 3.5846798 8 8v69.36895674c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="41" y="68" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="64" font-weight="900" style="white-space:pre;text-transform:none">Search</tspan>
+    </text>
+  </g>
+  <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M59 807h964c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H59c-4.4153202 0-8-3.5846798-8-8v-64c0-4.4153202 3.5846798-8 8-8z"/>
+  <text font-size="0" style="white-space:pre" opacity=".65">
+    <tspan x="71" y="861" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">country:</tspan>
+  </text>
+  <g transform="translate(950 50)">
+    <path fill="rgb(200,200,200)" fill-rule="evenodd" d="M8 0h64c4.4153202 0 8 3.5846798 8 8v64c0 4.4153202-3.5846798 8-8 8H8c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="1" y="54" fill="rgb(0,0,0)" font-family="Segoe UI Black" font-size="32" font-weight="900" style="white-space:pre;text-transform:none" font-style="italic">Lang</tspan>
+    </text>
+  </g>
+</svg>
