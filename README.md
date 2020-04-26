@@ -21,6 +21,7 @@ Milkman is an order management platform which will allow retailers to adapt and 
 |[**Provider Shopper**](https://flutter.github.io/samples/provider_shopper.html) | **Shopping App using Provider** | https://github.com/flutter/samples/tree/master/provider_shopper |
 |[**Flutter Maps Firestore**](https://flutter.github.io/samples/flutter_maps_firestore.html) | **Firebase & Google Maps iOS App** | https://github.com/flutter/samples/tree/master/flutter_maps_firestore |
 |[**Charts**](https://flutter.github.io/samples/charts.html) | **Flutter Charts** | https://github.com/google/charts |
+|[**Navigation Bar**](https://github.com/ibhavikmakwana/FlutterPlayground/blob/master/preview/nav_drawer_left.png) | **Flutter Navigation Bar** | https://github.com/ibhavikmakwana/FlutterPlayground |
 
 ## Flutter App Screenshots
 <img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Milkman_Login_Screen.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Screen.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Schedule.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Customer_Screen.png" width="200">
