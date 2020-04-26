@@ -26,3 +26,4 @@ Milkman is an order management platform which will allow retailers to adapt and 
 <img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Milkman_Login_Screen.png" width="200">
 <img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Screen.png" width="200">
 <img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Schedule.png" width="200">
+<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Customer_Screen.png" width="200">
