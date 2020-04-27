@@ -8,16 +8,18 @@ Milkman is an order management platform which will allow retailers to adapt and 
 
 ## Development Goals
 **Ordering System for Collections:** Create an easy to use application which any vendor can use to display and sell items for scheduled collection.<br /> 
+
 **Google Maps API integration for Deliveries:** Integrate Google Maps API providing vendors with routes.<br />
+
 **Delivery Outsourcing:** Outsourced delivery service from driver/rider pool.<br />
 
 ## Built Using & Motivation
 **Flutter**
 * Rapid Development Vs Android SDK + NDK
 * Native Compilation 
-* * Performance 
-* * Interactivity 
-* * Pricing benefits with Google Maps API
+  * Performance 
+  * Interactivity 
+  * Pricing benefits with Google Maps API
 
 **Firebase**
 * Free at small scale
