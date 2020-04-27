@@ -45,6 +45,6 @@ Milkman is an order management platform which will allow retailers to adapt and 
 |[**Navigation Bar**](https://github.com/ibhavikmakwana/FlutterPlayground/blob/master/preview/nav_drawer_left.png) | **Flutter Navigation Bar** | https://github.com/ibhavikmakwana/FlutterPlayground |
 
 ## Flutter App Screenshots
-<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Milkman_Login_Screen.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Register_Screen.png" width="200">
+<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Milkman_Login_Screen.png" width="200">
 <img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Screen.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor2.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Vendor_Schedule.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Registration_Customer_Screen.png" width="200">
-<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Vendor_Home_Screen.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Vendor_Home_Screen_Menu.png" width="200">
+<img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Vendor_Home_Screen.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Vendor_Home_Screen_Menu.png" width="200"><img src="https://github.com/n00bm0nkey/Milkman/blob/master/Assets/Screenshots/Customer_Home_Screen_Menu.png" width="200">
