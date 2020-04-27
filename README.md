@@ -13,7 +13,7 @@ Milkman is an order management platform which will allow retailers to adapt and 
 
 **Delivery Outsourcing:** Outsourced delivery service from driver/rider pool.<br />
 
-## Built Using & Motivation
+## Built Using
 **Flutter**
 * Rapid Development Vs Android SDK + NDK
 * Native Compilation 
